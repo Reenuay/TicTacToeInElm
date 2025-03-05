@@ -1,7 +1,6 @@
 module Main exposing (main)
 
 import Element exposing (Element, noHover, padding)
-import Element.Font
 import Font
 import Font.Size
 import Html exposing (Html)
