@@ -1,0 +1,9 @@
+{
+    "description": "Tic Tac Toe game written in Elm",
+    "scripts": {
+        "build": "elm make src/Main.elm --output=output/main.js --optimize",
+        "start": "elm-live src/Main.elm --open --hot --dir=public -- --debug --output=public/output/main.js"
+    },
+    "author": "Rustam Azizov",
+    "license": "MIT"
+}
